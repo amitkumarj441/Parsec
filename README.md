@@ -50,3 +50,7 @@ You can see the **schemas** as they are registered in the schema-registry-ui.
 
 You can view the **messages** as they are shown in the kafka-topics-ui
 
+## Demo!
+
+Visit http://100.117.99.143:3030/
+
