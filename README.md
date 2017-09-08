@@ -46,9 +46,9 @@ That's it. Visit http://localhost:3030 to get into the fast-data-dev environment
 
 ## Kafka Cluster
 
-You can see the **schemas** as they are registered in the schema-registry-ui.
+You can see the **schemas** as they are registered in the [schema-registry-ui](http://100.117.99.143:3030/schema-registry-ui/#/).
 
-You can view the **messages** as they are shown in the kafka-topics-ui
+You can view the **messages** as they are shown in the [kafka-topics-ui](http://100.117.99.143:3030/kafka-topics-ui/#/).
 
 ## Demo!
 
