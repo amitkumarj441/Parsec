@@ -54,11 +54,7 @@ You can view the **messages** as they are shown in the [kafka-topics-ui](http://
 
 Visit http://100.117.99.143:3030/
 
-## Contributing guidelines
-
-## How to become a contributor and submit your own code
-
-We'd love to accept your patches!
+## [Contributing guidelines](https://github.com/quanonblocks/Parsec/blob/master/CONTRIBUTING.md)
 
 ### Contribute here
 
