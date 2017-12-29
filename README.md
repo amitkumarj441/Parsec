@@ -1,5 +1,7 @@
 # Parsec
-Project [Idea](https://github.com/amitkumarj441/IndiaHacks-2017-Fintech/blob/master/IDEA.md).
+A web-scale state channel for the Internet of Value.
+
+For more info, check [Technical Overview](https://github.com/quanonblocks/Parsec/blob/master/TECHNICAL_OVERVIEW.md)
 
 ## Prerequisites 
 
