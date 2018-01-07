@@ -3,6 +3,12 @@ A web-scale state channel for the Internet of Value.
 
 For more info, check [Technical Overview](https://github.com/quanonblocks/Parsec/blob/master/TECHNICAL_OVERVIEW.md)
 
+## Welcome!
+
+First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
+
+Thank you for visiting the Quanonblocks project repository.
+
 ## Prerequisites 
 
 Install 
@@ -55,6 +61,12 @@ You can view the **messages** as they are shown in the [kafka-topics-ui](http://
 ## Demo!
 
 Visit http://100.117.99.143:3030/
+
+## Get involved
+
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md).
+
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 ## [Contributing guidelines](https://github.com/quanonblocks/Parsec/blob/master/CONTRIBUTING.md)
 
