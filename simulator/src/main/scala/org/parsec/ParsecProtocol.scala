@@ -2,7 +2,7 @@ package org.parsec
 
 /**
   * The Parsec protocol introduces a layer for `crypto-currency` transactions to take place,
-  * without necessarily being registered into the global block-chain
+  * without necessarily being registered into the global blockchain
   */
 object ParsecProtocol {
 
@@ -52,7 +52,7 @@ object ParsecProtocol {
     * @param invoiceType    (optional) use to pass-in other metadata about the invoice
     */
   case class Invoice(invoiceAddress: String, price: Double, currency: String, invoiceType: String = "") {
-    assert(ALLOWED_CURRENCIES.contains(currency), s"PasecProtocol: Currency $currency is not an allowed currency. Use: " + ALLOWED_CURRENCIES.mkString(" or "))
+    assert(ALLOWED_CURRENCIES.contains(currency), s"ParsecProtocol: Currency $currency is not an allowed currency. Use: " + ALLOWED_CURRENCIES.mkString(" or "))
 
     def produceInvoiceHash = "######-####-####"
   }
