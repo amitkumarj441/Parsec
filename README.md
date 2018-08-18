@@ -70,6 +70,18 @@ Please note that it's very important to us that we maintain a positive and suppo
 
 ## [Contributing guidelines](https://github.com/quanonblocks/Parsec/blob/master/CONTRIBUTING.md)
 
+## Citing Parsec for web-scale State Channel
+If you find Parsec useful in your research, please consider citing:
+```
+@article{jaiswal2018parsec,
+  title={Parsec: A State Channel for the Internet of Value},
+  author={Jaiswal, Amit Kumar},
+  journal={arXiv preprint arXiv:1807.11378},
+  year={2018}
+}
+```
+
+
 ### Contribute here
 
 Feel free to contribute it, take a look at current issues or start a new issue if you found something buggy or for feature request.
