@@ -1,13 +1,13 @@
 # Parsec
 A web-scale state channel for the Internet of Value.
 
-For more info, check [Technical Overview](https://github.com/quanonblocks/Parsec/blob/master/TECHNICAL_OVERVIEW.md)
+For more info, check [Technical Overview](https://github.com/amitkumarj441/Parsec/blob/master/TECHNICAL_OVERVIEW.md)
 
 ## Welcome!
 
 First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
 
-Thank you for visiting the Quanonblocks project repository.
+<!-- Thank you for visiting the Quanonblocks project repository. -->
 
 ## Prerequisites 
 
